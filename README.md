@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://canva.link/m6ykcw3zts86sjg" />
+<img width="1920" height="1080" alt="Green and Beige Modern Agriculture Presentation" src="https://github.com/user-attachments/assets/0667d557-ce1e-4e1a-8207-e5d07fc09fb2" />
+
 </div>
 
 
